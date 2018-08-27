@@ -1,4 +1,5 @@
-##Pirate Game##
+## Pirate 
+# Game
 A simple little combat game pitting Sailors against Pirates. Nothing too complex, just a fun little example of what I've learned so far.
 
 Previously Roman Legionaries fought against Barbarians, but with a change in code the theme was reworked as well. In the Roman v. Barbarian version there was only one move, an attack, and it either hit and did damange or missed and did not. Now there are different kinds of attacks to choose from with their own modifers.
